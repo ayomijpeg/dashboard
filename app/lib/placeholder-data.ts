@@ -9,6 +9,8 @@ const users = [
   },
 ];
 
+
+
 const customers = [
   {
     id: 'd6e15727-9fe1-4961-8c5b-ea44a9bd81aa',
@@ -63,7 +65,7 @@ const invoices = [
   },
   {
     customer_id: customers[4].id,
-    amount: 3040,
+    amount: 666,
     status: 'paid',
     date: '2022-10-29',
   },
